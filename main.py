@@ -124,10 +124,10 @@ if __name__ == '__main__':
     # single_contract_json_response('0x0326b0688d9869a19388312Df6805d1D72AaB7bC')
     # scrape()
     # get_stats_from_single_collection("0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b", token_id=5042)
-    # api_main()
+    api_main()
     # main()
-    populate_statistics()
-    insert_statistics_collection()
+    # populate_statistics()
+    # insert_statistics_collection()
     # estimate_start_block("0x6080B6D2C02E9a0853495b87Ce6a65e353b74744")
     # test(1, 100)
 
